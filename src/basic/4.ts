@@ -29,6 +29,6 @@ function customError():never {
   }
 
   // console.log(typeof customError());//never не має типу?
-
+customError;
   
 
