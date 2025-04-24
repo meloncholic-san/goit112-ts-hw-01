@@ -28,7 +28,7 @@ function customError():never {
     throw new Error('Error');
   }
 
-  console.log(typeof customError());//never не має типу?
+  // console.log(typeof customError());//never не має типу?
 
   
 
